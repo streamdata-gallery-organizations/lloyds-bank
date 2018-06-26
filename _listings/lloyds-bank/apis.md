@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "4007"
 tags: Lloyds Bank
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-06-26"
+modified: "2018-06-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/lloyds-bank/master/_listings/lloyds-bank/apis.md
 specificationVersion: "0.14"
 apis:
