@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Lloyds Bank",
+	"description": "This is a repository of lloyds bank APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/lloyds-bank.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://lloyds-bank.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Lloyds Bank",
+			"x-api-slug": "lloyds-bank",
+			"description": "Lloyds Bank plc is a British retail and commercial bank with branches across England and Wales. It has traditionally been considered one of the Big Four clearing banks. The bank was founded in Birmingham in 1765. It expanded during the nineteenth and twentieth centuries and took over a number of smaller banking companies. In 1995 it merged with the Trustee Savings Bank and traded as Lloyds TSB Bank plc between 1999 and 2013.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png",
+			"humanURL": "https://lloydsbank.com",
+			"baseURL": "https://api.lloydsbank.com/open-banking/v2.1/",
+			"tags": "Lloyds Bank",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/lloyds-bank/master/_listings/lloyds-bank/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Lloyds Bank",
+	"include": [
+		{
+			"name": "Lloyds Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/lloyds-bank/master/_listings/lloyds-bank/apis.yaml"
+		}
+	]
+}
